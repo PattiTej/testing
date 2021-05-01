@@ -1,1 +1,1 @@
-[Team mascot](Resources/Team mascot)
+![Team_mascotmascot](Resources/Team_mascot.png)
