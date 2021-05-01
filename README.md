@@ -19,7 +19,9 @@ This Project is about building a blockchain that is more general purpose and a b
 ### Summary:
  
 (1)	NFT minting process – creating the smart contract and minting a token;
-(2)	Creating an app to view NFTs created through the smart contract
+
+(2)	Creating an app to view NFTs created through the smart contract;
+
 (3)	Backing the NFT metadata and assets on IPFS – creating a marketplace to transfer NFTs to others while also transferring the NFT’s underlying assets on IPFS
 
 Step-by-step installation:
