@@ -24,9 +24,9 @@ This Project is about building a blockchain that is more general purpose and a b
 
 (3)	Backing the NFT metadata and assets on IPFS – creating a marketplace to transfer NFTs to others while also transferring the NFT’s underlying assets on IPFS
 
-Step-by-step installation:
+## Step-by-step installation:
  
-I.                    Minting process
+### I.                    Minting process
  
 A.  	Setting up
  
