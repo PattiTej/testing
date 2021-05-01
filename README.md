@@ -33,3 +33,12 @@ A.  	Setting up
 ·         macOS :
 
 ![1A](Resources/1A.png)
+
+ 
+·         Linux:
+ 
+ ![1B](Resources/1B.png)
+ 
+·         Windows
+
+![1C](Resources/1C.png)
