@@ -31,4 +31,5 @@ A.  	Setting up
 1.   	Install Flow CLI
  
 ·         macOS :
+
 ![1A](Resources/1A.png)
